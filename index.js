@@ -160,7 +160,7 @@ m.sendMessage(args)
 
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag} !`);
-          client.user.setActivity("$help | END IMPERIAL",{type: 'WATCHING'});
+          client.user.setActivity("$help | Xerea Ke",{type: 'WATCHING'});
   
   });
 
